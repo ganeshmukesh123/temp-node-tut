@@ -1,0 +1,13 @@
+new content in result-sync.txt 
+DATA : 
+new content in first.txt , 
+new content in second.txt new content in result-sync.txt 
+DATA : 
+new content in first.txt , 
+new content in second.txt new content in result-sync.txt 
+DATA : 
+new content in first.txt , 
+new content in second.txt new content in result-sync.txt 
+DATA : 
+new content in first.txt , 
+new content in second.txt 

@@ -1,0 +1,4 @@
+new content in result-async.txt 
+DATA : 
+new content in first.txt , 
+new content in second.txt 
